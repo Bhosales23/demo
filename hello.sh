@@ -1,3 +1,3 @@
 echo "hello"
-echo "From developer 1"
-echo "From Developer 2"
+
+echo "From developer 1 and From Developer 2"
